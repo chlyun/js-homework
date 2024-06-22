@@ -15,7 +15,7 @@ console.log(getValueAtObject(person, "city")); // 'Wonderland'
 console.log(getValueAtObject(person, "country")); // Error !
 
 // 문제2
-
+1;
 function getNumberAtArray(arr, index) {
   if (index >= 0 && arr.length > index) {
     return arr[index];
