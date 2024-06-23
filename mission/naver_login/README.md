@@ -45,6 +45,7 @@ loginButton.addEventListener("click", function (event) {
     }
   });
 
+지금은 이걸로 해도 되는거같습니다 해결했어요!
 
 ```
 
